@@ -1,6 +1,6 @@
 # Telegram Widget App
 
-Welcome to the `Telegram Invite Button` App! This is a simple web application that allows you to create Telegram group or channel invite widgets. You can use this app for both open-source development and self-deployment to other users. This project is inspired by the Discord widget made by `switchblade`.
+Welcome to the `Telegram Invite Widget` App! This is a simple web application that allows you to create Telegram group or channel invite widgets. You can use this app for both open-source development and self-deployment to other users. This project is inspired by the Discord widget made by `switchblade`.
 
 ## Getting Started
 
@@ -10,12 +10,12 @@ Welcome to the `Telegram Invite Button` App! This is a simple web application th
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/telegram-invite-button.git
+   git clone https://github.com/your-username/telegram-invite-Widget.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd telegram-invite-button
+   cd telegram-invite-Widget
    ```
 
 3. Install dependencies:
@@ -23,7 +23,7 @@ Welcome to the `Telegram Invite Button` App! This is a simple web application th
    npm install
    ```
 
-### Join My Telegram Group (+this is the widget preview)
+### Join My Telegram Group (+ this is the widget preview)
 
 <p align="center">
  <a href="https://telegram.me/misfits_zone">
@@ -47,7 +47,7 @@ Welcome to the `Telegram Invite Button` App! This is a simple web application th
    ```
    Replace `:username` with the Telegram username.
 
-4. To get an invite button, use the following endpoint:
+4. To get an invite Widget, use the following endpoint:
    ```
    http://localhost:3000/:username/:color?
    ```
@@ -67,7 +67,7 @@ Welcome to the `Telegram Invite Button` App! This is a simple web application th
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an [issue](https://github.com/your-username/telegram-invite-button/issues) or submit a [pull request](https://github.com/your-username/telegram-invite-button/pulls).
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an [issue](https://github.com/your-username/telegram-invite-Widget/issues) or submit a [pull request](https://github.com/your-username/telegram-invite-Widget/pulls).
 
 ## License
 
