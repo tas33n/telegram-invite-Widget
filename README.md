@@ -1,6 +1,6 @@
 # Telegram Widget App
 
-Welcome to the Telegram Widget App! This is a simple web application that allows you to create Telegram group or channel invite widgets. You can use this app for both open-source development and self-deployment to other users.
+Welcome to the `Telegram Invite Button` App! This is a simple web application that allows you to create Telegram group or channel invite widgets. You can use this app for both open-source development and self-deployment to other users. This project is inspired by the Discord widget made by `switchblade`.
 
 ## Getting Started
 
@@ -10,18 +10,27 @@ Welcome to the Telegram Widget App! This is a simple web application that allows
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/telegram-widget-app.git
+   git clone https://github.com/your-username/telegram-invite-button.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd telegram-widget-app
+   cd telegram-invite-button
    ```
 
 3. Install dependencies:
    ```bash
    npm install
    ```
+
+### Join My Telegram Group (+this is the widget preview)
+
+<p align="center">
+ <a href="https://telegram.me/misfits_zone">
+  <img src="https://tg-button.repl.co/misfits_zone/%231a0130" style="border-radius:20px;">
+ </a>
+</p>
+
 
 ### Usage
 
@@ -58,7 +67,7 @@ Welcome to the Telegram Widget App! This is a simple web application that allows
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an [issue](https://github.com/your-username/telegram-widget-app/issues) or submit a [pull request](https://github.com/your-username/telegram-widget-app/pulls).
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an [issue](https://github.com/your-username/telegram-invite-button/issues) or submit a [pull request](https://github.com/your-username/telegram-invite-button/pulls).
 
 ## License
 
